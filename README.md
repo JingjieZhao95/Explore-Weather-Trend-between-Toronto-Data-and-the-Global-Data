@@ -9,3 +9,10 @@ My goal is to create a visualization and prepare a write up describing the simil
 * Open up the CSV in Excel
 * Create a line chart that compares Toronto’s temperatures with the global temperatures
 * Make observations about the similarities and differences between the world averages and Toronto’s averages, as well as overall trends
+
+## Make observations (similarities and differences)
+The graph illustrates the moving average for both Toronto and global temperatures between 1750 and 2013. 
+
+1. The temperature in Toronto has been two to three degrees Celsius lower than the global temperature for the entire period of time. 
+2. They both experienced a rapid decline around 1806 and reached a trough in 1820, followed by the temperature rise and back to the average level around 1834. 
+3. The upward trend of the global temperature is more stable, while the Toronto temperature got through several fluctuated stages after 1876.
